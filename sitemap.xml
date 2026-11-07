@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Every indexable page. Keep lastmod real: update the date on a page
+     when its content actually changes, not on every deploy. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/kalkulator-akademik-polri.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/kalkulator-nilai-akhir-polri.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/kalkulator-tes-polri.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/tentang.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/metodologi.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/kontak.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/kebijakan-privasi.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/syarat-ketentuan.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.2</priority>
+  </url>
+  <url>
+    <loc>https://kalkulator-jasmani-polri.vercel.app/disclaimer.html</loc>
+    <lastmod>2026-11-07</lastmod>
+    <priority>0.2</priority>
+  </url>
+</urlset>
